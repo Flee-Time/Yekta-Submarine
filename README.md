@@ -4,5 +4,7 @@ This is the Official repository of the YEKTA Team Submarine firmware for an ardu
 Check us out on Social Media :
 Instagram : yekta.team
 
+
+Yekta Team, hereby disclaims all copyright interest in the program “Yekta-Submarine” (Submarine Firmware) written by Koray Bilir.
 This project is under a GPL3 lisence.
 This firmware is free to use for personal projects, for any other use please contact me before use.
